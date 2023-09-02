@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Michael Scherer, Tyler Pager",
+            "title": "Biden pushes South Carolina as first primary state, elevates Georgia and Michigan - The Washington Post",
+            "description": "The tectonic decision to radically remake his party’s presidential nominating calendar for 2024 came as a shock to party officials and state leaders who had been lobbying hard in recent weeks to gain a place in the early calendar.",
+            "url": "https://www.washingtonpost.com/politics/2022/12/01/2024-primaries-biden-democrats/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VE2OQQYWUQAK3D3QKRSOWACIXE.jpg&w=1440",
+            "publishedAt": "2022-12-02T02:42:31Z",
+            "content": "Comment on this story\r\nPresident Biden has asked leaders of the Democratic National Committee to make South Carolina the nations first primary state, followed by New Hampshire and Nevada a week later… [+8191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "As.com"
+            },
+            "author": "Joe Brennan",
+            "title": "Costa Rica vs Germany summary: Costa Rica and Germany out, score, goals, highlights 2-4 | Qatar World Cup 2022 - AS USA",
+            "description": "Germany are eliminated from a second World Cup in a row before the round of 16. Costa Rica are also out.",
+            "url": "https://en.as.com/soccer/costa-rica-vs-germany-live-online-updates-score-stats-qatar-world-cup-2022-n/",
+            "urlToImage": "https://img.asmedia.epimg.net/resizer/xyt2wc-MI4sAVbhyVxMjGBmtqPI=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/6RYK3OKQB4EWRQ4Y562CSJVNYI.jpg",
+            "publishedAt": "2022-12-02T00:42:42Z",
+            "content": "FT: Costa Rica 2-4 Germany, I think!\r\nAnd that's it!\r\nStéphanie Frappart blows the whistle...\r\nGERMANY ARE OUT OF THE WORLD CUP AT THE GROUP STAGE FOR THE SECOND CONSECUTIVE TIME\r\nFT: Costa Rica    2… [+840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Fred Lambert",
+            "title": "Tesla Semi Delivery Event news hub: Livestream and updates - Electrek",
+            "description": "Tesla is holding its 'Tesla Semi Delivery Event' today at 5 PM PT (8 PM ET) to deliver the first electric truck to customers.",
+            "url": "https://electrek.co/2022/12/01/tesla-semi-delivery-event-news-hub-livestream-updates/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/12/image.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-12-02T00:41:51Z",
+            "content": "Tesla is holding its Tesla Semi Delivery Event today at 5 p.m. PT (8 p.m. ET) to deliver the first electric truck to customers. The company is also expected to have a presentation about the productio… [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maegan Vazquez, Donald Judd, Betsy Klein, Sam Fossum",
+            "title": "Biden and Macron affirm commitment to Ukraine but diverge on willingness to speak with Putin - CNN",
+            "description": "US President Joe Biden and French President Emmanuel Macron on Thursday demonstrated a united front in addressing the ongoing war in Ukraine but offered divergent answers over their willingness to speak with Russian President Vladimir Putin, relaying that the…",
+            "url": "https://www.cnn.com/2022/12/01/politics/biden-macron-state-visit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221201131948-macron-biden-joint-presser-120122.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-02T00:40:00Z",
+            "content": "US President Joe Biden and French President Emmanuel Macron on Thursday demonstrated a united front in addressing the ongoing war in Ukraine but offered divergent answers over their willingness to sp… [+10112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Nintendo Apologizes for Pokemon Scarlet/Violet Performance Issues - IGN Daily Fix - IGN",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7V2b5qMtMdY",
+            "urlToImage": null,
+            "publishedAt": "2022-12-02T00:27:02Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Rob Sheffield",
+            "title": "Farewell, Christine McVie, the Songbird Who Knew the Score - Rolling Stone",
+            "description": "She was an oasis of sanity in Fleetwood Mac's dysfunctional family and a universally beloved piano woman who wrote so many classics that you can spend years catching up with her greatness",
+            "url": "https://www.rollingstone.com/music/music-features/christine-mcvie-fleetwood-mac-tribute-greatest-songs-1234639376/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/11/christine-mcvie-over-my-head.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2022-12-02T00:23:27Z",
+            "content": "Christine McVie always came on like the grown-up in the room, which admittedly might not be hard to do when the room is Fleetwood Mac. But McVie was the emotional glue in a band that has spent the pa… [+9736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SportsLine"
+            },
+            "author": null,
+            "title": "NFL DFS Thursday Night Football picks, Week 13: Bills vs. Patriots fantasy lineup advice for DraftKings, Fanduel from Millionaire contest winner - SportsLine.com - SportsLine",
+            "description": "The Week 13 NFL schedule opens with an AFC East rivalry game with Josh Allen, Stefon Diggs and the Buffalo Bills heading to Gillette Stadium to t...",
+            "url": "https://www.sportsline.com/insiders/nfl-dfs-thursday-night-football-picks-week-13-bills-vs-patriots-fantasy-lineup-advice-for-draftkings-fanduel-from-millionaire-contest-winner/",
+            "urlToImage": "https://splnhub.cbsistatic.com/i/2022/12/01/84623909-205c-441a-9ebb-3008092fe95b/stefon-diggs-usatsi-sl-bills.jpg",
+            "publishedAt": "2022-12-02T00:07:00Z",
+            "content": "The Week 13 NFL schedule opens with an AFC East rivalry game with Josh Allen, Stefon Diggs and the Buffalo Bills heading to Gillette Stadium to take on Mac Jones, Jakobi Meyers, and the New England P… [+3333 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi, CNN",
+            "title": "Pantone's 2023 Color of the Year revealed - CNN",
+            "description": "Pantone has spoken. The color that will shape the year ahead is...",
+            "url": "https://www.cnn.com/style/article/pantone-color-of-the-year-2023-viva-magenta/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221201133220-pantone-color-of-year-23-split-dv-super-tease.jpg",
+            "publishedAt": "2022-12-02T00:00:53Z",
+            "content": "designPublished 2nd December 2022\r\nPantone has spoken. The color that will shape the year ahead is drum roll, please Viva Magenta. \r\nThe global color authority reveals its Color of the Year every Dec… [+3312 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed",
+            "title": "Appeals court halts special master review of documents seized at Mar-a-Lago in major defeat for Trump - CNN",
+            "description": "In a major defeat for former President Donald Trump, a federal appeals court on Thursday halted a third-party review of documents seized from his Mar-a-Lago estate.",
+            "url": "https://www.cnn.com/2022/12/01/politics/mar-a-lago-special-master/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221130175842-01-trump-082817.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-01T23:20:00Z",
+            "content": "In a major defeat for former President Donald Trump, a federal appeals court on Thursday halted a third-party review of documents seized from his Mar-a-Lago estate. \r\nThe ruling removes a major obsta… [+5107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Brett Tingley",
+            "title": "NASA's Artemis 1 Orion spacecraft leaves moon's orbit to head home - Space.com",
+            "description": "Orion now begins its long journey back to Earth.",
+            "url": "https://www.space.com/artemis-1-orion-departs-moon-orbit",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uPak9hgKJcdVH9tLJpj7q-1200-80.jpg",
+            "publishedAt": "2022-12-01T22:54:47Z",
+            "content": "NASA's Artemis 1 Orion spacecraft is coming home.\r\nThe uncrewed Orion spacecraft successfully completed a lunar departure burn on Thursday (Dec. 1) to begin heading home after successful moon orbits.… [+2913 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Keegan Abdoo",
+            "title": "Dolphins offense vs. 49ers defense: If San Francisco can't stop Mike McDaniel's attack, can anyone? - NFL.com",
+            "description": "The Dolphins' high-octane offense has dominated opponents under Mike McDaniel. Will that come to a screeching halt on Sunday, when the first-year coach faces his longtime mentor and the 49ers' top-ranked defense? Keegan Abdoo explores a fascinating showdown.",
+            "url": "https://www.nfl.com/news/dolphins-offense-vs-49ers-defense-if-san-francisco-can-t-stop-mike-mcdaniel-s-at",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/tym3jizarngzi53beitr",
+            "publishedAt": "2022-12-01T22:54:00Z",
+            "content": "Since Warner arrived in San Francisco, opposing quarterbacks have had as much trouble finding affordable real estate as Bay Area residents themselves. The 49ers have allowed just 71 completions to th… [+1542 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Elise Brisco, USA TODAY",
+            "title": "Al Roker, 'Today' anchor, hospitalized again after 'complications' - USA TODAY",
+            "description": "Al Roker is back in the hospital due to \"complications\" less than a week after being released during a blood clot scare, Hoda Kotb announced Thursday.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2022/12/01/al-roker-today-anchor-hospitalized-again-after-complications/10809360002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/01/USAT/c593c16b-563d-4521-9050-8414cc7fef13-AP_Al_Roker_Hospitalized.jpg?auto=webp&crop=4452,2505,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-12-01T22:38:49Z",
+            "content": "Al Roker is back in the hospital due to \"complications\" less than a week after being released during a blood clot scare. \r\nThe longtime \"Today\" show meteorologist, 68, initially announced on Instagra… [+2586 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jessica Guynn, USA TODAY",
+            "title": "Florida, DeSantis yank billions in investments from 'woke' BlackRock over ESG investing - USA TODAY",
+            "description": "Florida is yanking $2 billion worth of state assets managed by BlackRock, escalating the GOP standoff with the world’s largest money manager over ESG.",
+            "url": "https://www.usatoday.com/story/money/2022/12/01/florida-desantis-blackrock-esg-woke/10812382002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/01/USAT/8d86d996-6b57-4844-95b3-3a56518757c0-AP_Prosecutor_Suspended_Florida.jpg?auto=webp&crop=5699,3206,x0,y570&format=pjpg&width=1200",
+            "publishedAt": "2022-12-01T22:16:58Z",
+            "content": "Florida is yanking $2 billion worth of state assets managed by BlackRock, escalating the GOP standoff with the world’s largest money manager over its ESG investment policies.\r\nThe state treasury will… [+3859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "LastPass Hacked for the Second Time in Six Months - Gizmodo",
+            "description": "The free password manager has already been hacked twice in 2022, and executives don't know what customer info was stolen.",
+            "url": "https://gizmodo.com/lastpass-hacked-again-second-time-six-months-1849841863",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/442126a424932173c88243b32895a45a.jpg",
+            "publishedAt": "2022-12-01T22:11:00Z",
+            "content": "If you were planning on storing your precious codes in LastPass, the freemium password manager, my personal advice to you would be: maybe think again on that one. And if you do use it, maybe consider… [+2687 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alice Newcome-Beill",
+            "title": "Today's Google Doodle celebrates one of gaming's hidden figures - The Verge",
+            "description": "Gerald “Jerry” Lawson, the self-taught Black engineer, is one of the more obscure names responsible for turning video games into what we know today. The inventor of the video game cartridge would’ve turned 82 today.",
+            "url": "https://www.theverge.com/2022/12/1/23488375/gerald-jerry-lawson-google-doodle-gaming-pioneer-inventor-cartridge",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Y916iebnRDJkLUOWTb4coI8rfr8=/9x3:372x259/1200x628/filters:focal(221x55:222x56)/cdn.vox-cdn.com/uploads/chorus_asset/file/24248116/Jerry_lawson_ca_1980.png",
+            "publishedAt": "2022-12-01T21:51:52Z",
+            "content": "Todays Google Doodle celebrates one of gamings hidden figures\r\nTodays Google Doodle celebrates one of gamings hidden figures\r\n / Gerald Jerry Lawson, the engineer largely responsible for the inventio… [+2789 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Michael Collins and Francesca Chambers, USA TODAY",
+            "title": "Biden open to talks with Putin about ending Ukraine war as US, France show united front - USA TODAY",
+            "description": "President Joe Biden signals willingness to talk with Vladimir Putin about ending war in Ukraine during French president Emmanuel Macron's U.S. visit.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/12/01/biden-french-president-emmanuel-macron/10806177002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/02/USAT/4495e6e6-36c0-4267-be12-76fbe0d33674-USP_News-_Bilateral_welcome_ceremony_of_French_Pre.1.jpg?auto=webp&crop=4607,2592,x0,y234&format=pjpg&width=1200",
+            "publishedAt": "2022-12-01T21:22:19Z",
+            "content": "WASHINGTON – President Joe Biden said Thursday he’s open to talking with Russian President Vladimir Putin even as he and French President Emmanuel Macron underscored their outrage over Moscow’s atroc… [+5504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Katie Reul",
+            "title": "‘Indiana Jones 5’ Trailer Unveils De-Aged Harrison Ford and New Title: ‘Dial of Destiny’ - Variety",
+            "description": "Indiana Jones is officially back. Disney revealed the first trailer for “Indiana Jones and the Dial of Destiny,” which is the official title for the fifth installment of Harrison Ford’s whip-cracking, adventure franchise. On top of that, the trailer showcases…",
+            "url": "https://variety.com/2022/film/news/indiana-jones-5-trailer-harrison-ford-deaged-dial-of-destiny-1235410524/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/12/plt_dtlr1_uhd_r709f_stills_221123.087653.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2022-12-01T21:13:00Z",
+            "content": "Indiana Jones is officially back.\r\nDisney revealed the first trailer for “Indiana Jones and the Dial of Destiny,” which is the official title for the fifth installment of Harrison Ford’s whip-crackin… [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Chanelle Chandler",
+            "title": "Judge orders right-wing operatives who targeted Black people with robocalls to register voters in D.C. - Yahoo News",
+            "description": "An Ohio judge on Tuesday ordered right-wing conspiracy theorists Jacob Wohl and Jack Burkman, who targeted Black voters with robocalls spreading...",
+            "url": "https://news.yahoo.com/judge-orders-right-wing-operatives-who-targeted-black-people-with-robocalls-to-register-voters-in-dc-210638840.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/F9Nxfa3BtcaPhaPxthiyug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/e7b49690-71b3-11ed-bb7d-d03734008f3f",
+            "publishedAt": "2022-12-01T21:06:38Z",
+            "content": "Jack Burkman, a lawyer and Republican political operative, left, and Jacob Wohl, an internet political activist and supporter of President Donald Trump, at a news conference in 2018. (Joshua Roberts/… [+6508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lori Ann LaRocco",
+            "title": "Senate approves bill enforcing railroad labor agreement before strike deadline, sends to Biden - CNBC",
+            "description": "The Senate passed legislation that would force a tentative rail labor agreement and thwart a national strike.",
+            "url": "https://www.cnbc.com/2022/12/01/senate-passes-rail-labor-agreement-ahead-of-strike-sends-to-biden.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107119481-16632687052022-09-15t185742z_1650937246_rc2nhw96fh3f_rtrmadp_0_usa-railway-labor.jpeg?v=1669928471&w=1920&h=1080",
+            "publishedAt": "2022-12-01T21:01:11Z",
+            "content": "The Senate passed legislation that would force a tentative rail labor agreement and thwart a national strike.\r\nA separate vote on adding seven days of paid sick leave to the agreement failed.\r\nThe ap… [+3179 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Graeme Massie",
+            "title": "‘I like Hitler’: Kanye West praises Nazi during shocking Alex Jones interview - The Independent",
+            "description": "Disgraced rapper criticised Jewish people as he insisted ‘We’ve got to stop dissing the Nazis all the time’",
+            "url": "https://www.independent.co.uk/news/world/americas/kanye-west-hitler-alex-jones-b2237179.html",
+            "urlToImage": "https://static.independent.co.uk/2022/12/01/17/Kanye.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-12-01T19:40:50Z",
+            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nDisgraced rapper Kanye West admitted I like Hitler as he and Holocaust … [+3078 chars]"
+        }
+    ]
+}
