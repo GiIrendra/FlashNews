@@ -87,7 +87,7 @@ export default class News extends Component {
   render() {
     return (
       <div className='container my-3'>
-        <h1 className='text-center' style={{ marginTop: '90px',color:"white" }}>NewsMonkey - Top Headlines</h1>
+        <h1 className='text-center' style={{ marginTop: '90px',color:"white" }}>FlashNews - Top Headlines</h1>
         {this.state.loading && <Spinner />}
         <InfiniteScroll
           dataLength={this.state.articles.length}
